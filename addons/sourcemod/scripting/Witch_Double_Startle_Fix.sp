@@ -17,12 +17,11 @@
 */
 
 #pragma semicolon 1
+#pragma newdecls required
 
 #include <sourcemod>
 #include <sdktools>
 #include <sdkhooks>
-
-#pragma newdecls required
 
 #define PLUGIN_VERSION	"1.0"
 

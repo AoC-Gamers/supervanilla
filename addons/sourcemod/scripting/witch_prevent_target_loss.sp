@@ -19,12 +19,11 @@
 //Forces move failure type 2 to always happen.
 
 #pragma semicolon 1
+#pragma newdecls required
 
 #include <sourcemod>
 #include <sdktools>
 #include <sdkhooks>
-
-#pragma newdecls required
 
 #define GAMEDATA "witch_prevent_target_loss"
 #define PLUGIN_VERSION	"1.1.1"

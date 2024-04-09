@@ -17,13 +17,12 @@
 */
 
 #pragma semicolon 1
+#pragma newdecls required
 
 #include <sourcemod>
 #include <sdktools>
 #include <sdkhooks>
 #include <dhooks>
-
-#pragma newdecls required
 
 #define GAMEDATA "witch_allow_in_safezone"
 
