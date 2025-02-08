@@ -116,7 +116,7 @@ Para habilitar *SuperVanilla* en las votaciones del servidor, edita el archivo `
 Luego, reinicia el servidor para aplicar los cambios.
 
 ## Contribuciones
-Gracias por tu interés en contribuir a *SuperVanilla*, Puedes reportar problemas o sugerir mejoras a través de la [página de issues](https://github.com/lechuga16/supervanilla/issues) o enviando un *pull request* en el [repositorio de GitHub](https://github.com/lechuga16/supervanilla/pulls).
+Gracias por tu interés en contribuir a *SuperVanilla*, Puedes reportar problemas o sugerir mejoras a través de la [página de issues](https://github.com/AoC-Gamers/supervanilla/issues) o enviando un *pull request* en el [repositorio de GitHub](https://github.com/AoC-Gamers/supervanilla/pulls).
 
 ## Licencia
 *SuperVanilla* está licenciado bajo la licencia **CC-BY-SA 3.0**. Para más información, consulta el [texto completo de la licencia](http://creativecommons.org/licenses/by-sa/3.0/legalcode).
