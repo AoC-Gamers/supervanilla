@@ -1,4 +1,5 @@
 # SuperVanilla V1.1
+[EN] [translation](https://translate.google.com/translate?sl=es&tl=en&u=https://github.com/AoC-Gamers/supervanilla)
 
 SuperVanilla es una configuración competitiva para Left 4 Dead 2 que ajusta varios aspectos del juego para hacerlo más equilibrado y divertido.
 
